@@ -1,1 +1,12 @@
-[reflection.pdf](https://github.com/user-attachments/files/25353029/reflection.pdf)
+Data Workflow Reflection
+
+By Marlane Stevenson
+
+This workflow analyzing MAcc core course rankings in 2023 felt simpler than Project 1, where we analyzed a variety of questions about the 2023 and 2024 MAcc exit survey data. I appreciated how simple of a process it was to give a detailed prompt to an AI coding chatbot (I used Google Jules) integrated with a GitHub workflow, iterate a few times, confirm the pull request, and view the generated outputs. The process felt more direct and streamlined, rather than feeling messy like it sometimes does with chatbots like Google Gemini. Using Jules, I feel like I need to have my prompt more put-together and comprehensive since it’s more of a task executor than a brainstormer, whereas doing analysis with Gemini you can brainstorm and go back and forth to refine the outputs. I really like that I could obtain the same results over and over again with this workflow, whereas I don’t think I could get Gemini to create the exact same outputs from Project 1 again.
+
+I love that this workflow is auditable, traceable, and repeatable. It’s useful to be able to see exactly where and how changes were made in the repository and be able to run the same workflow on different data. I feel very in control of this workflow and future workflows because I know that each step is documented and that I can get the same output every time. 
+
+If I had one more week to work with this data, I would try using the same workflow created on GitHub on the next year’s MAcc exit survey data (2024). I would also want to create a new workflow that looks at the elective course rankings for 2023, and then also try that workflow on 2024 elective course rankings. I also think it would be interesting to create a workflow that compared the rankings of core classes or elective classes between 2023 and 2024. I would be interested to see if a workflow on GitHub could take survey data from both years and compare the course rankings, or if it would work better to create multiple workflows to walk through the steps of creating rankings and then comparing them across the two years.
+
+One accounting application I can see for this workflow is in the risk assessment of audit clients. There are a variety of areas where risk is assessed for a client company, and the risk assessment process may even involve multiple people giving risk ratings and then averaging out the assessments. This workflow would work well to determine the average risk for a company, given risk assessment ratings in various categories and/or from various employees on the audit team.
+

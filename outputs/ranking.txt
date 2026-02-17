@@ -1,0 +1,12 @@
+Course Ranking (Based on Average Global Rank - Lower is Better)
+================================================================
+
+                                 Course  Average Rank  N  Std Dev
+ACC 6400 Advanced Tax Business Entities          2.56 43     1.59
+ACC 6060 Professionalism and Leadership          2.64 53     1.46
+                ACC 6300 Data Analytics          3.25 32     1.65
+  ACC 6600 Business Law for Accountants          3.29 17     2.08
+ ACC 6560 Financial Theory & Research I          3.98 52     1.60
+     ACC 6350 Managment Control Systems          4.02 51     1.98
+               ACC 6510 Financial Audit          4.42 52     1.94
+           ACC 6540 Professional Ethics          5.34 50     1.57
